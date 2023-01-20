@@ -13,7 +13,7 @@ Use any web browser to access the webpage. If you wish to see the source code, p
 
 ## Usage
 
-To access the webpage, go to https://liguang-lee-zhang.github.io/Module-1-Challenge/. 
+To access the webpage, go to https://liguang-lee-zhang.github.io/Password_generator/. 
 
 Image showing deployed webpage:
 
