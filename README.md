@@ -18,7 +18,7 @@ To access the webpage, go to https://liguang-lee-zhang.github.io/Module-1-Challe
 Image showing deployed webpage:
 
 
-![alt Deployed webpage](/assets/images/screenshot.png)
+![alt Deployed webpage](Develop/images/screenshot.png)
 
 
 
@@ -27,6 +27,3 @@ Image showing deployed webpage:
 This project is under a MIT license. 
 
 
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
